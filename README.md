@@ -5,6 +5,18 @@ Aplikasi Sistem Informasi Kota Depok menyajikan berbagai informasi seputar wisat
 - STT Terpadu Nurul Fikri
 - ✨ 2 Teknik Informatika 8  ✨
 
+## Environment
+* Download [DBSIWIKODE MYSQL] : [Download](dbsiwikode.sql)
+
+```sh
+Setting database configuration in application/config/database.php
+```
+Verify the deployment by navigating to your server address in
+your preferred browser, example : 
+```sh
+127.0.0.1/siwikode
+http://localhost/siwikode
+```
 
 ### Team
 
@@ -18,19 +30,6 @@ Aplikasi Sistem Informasi Kota Depok menyajikan berbagai informasi seputar wisat
 ### Demo
 Demo can be found at : 
 > Note `SIWIKODE WEB :` https://siwikode-ti8-kel8.000webhostapp.com/
-
-
-### Installation
-```sh
-Download [DBSIWIKODE MYSQL](dbsiwikode.sql) to run.
-Setting database configuration in application/config/database.php
-```
-Verify the deployment by navigating to your server address in
-your preferred browser, example : 
-```sh
-127.0.0.1/siwikode
-http://localhost/siwikode
-```
 
 
 ### Screenshots
